@@ -1,4 +1,4 @@
-# Oxygen Online 1.2
+# Oxygen Online 1.3
 # Updates
 **Added**: *Check if Roblox is Open* <br>
 **Added**: *Sandbox Mode for Website* <br>
