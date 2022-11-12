@@ -6,6 +6,13 @@
 **Added**: *Provider Code Viewer* <br>
 **Added**: *Provider Sites* <br>
 **Added**: *Refresh and Force Exit*
+**Added**: *Is Oxygen Patched*
+**Added**: *Fetch API*
+**Added**: *RobloxPlayer Injection*
+**Added**: *Roblox OxygenFix*
+**Added**: *Roblox Oxygen Launcher*
+**Added**: *Roblox CONV Inject*
+**Added**: *Resource C*
 # Info
 *Checks if OxygenU is working in your current state* <br>
 **OxygenU**: https://oxygenu.xyz/ <br>
