@@ -1,4 +1,5 @@
 # Oxygen Online 1.3
+**Download:** https://github.com/GModule/OxygenOnline/releases
 # Updates
 **Added**: *Check if Roblox is Open* <br>
 **Added**: *Sandbox Mode for Website* <br>
