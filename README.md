@@ -12,7 +12,11 @@
 **Added**: *Roblox OxygenFix* <br>
 **Added**: *Roblox Oxygen Launcher* <br>
 **Added**: *Roblox CONV Inject* <br>
-**Added**: *Resource C* <br>
+**Added**: *Property Saving* <br>
+**Added**: *UserSettings* <br>
+**Added**: *Themes* <br>
+**Added**: *Animation* <br>
+**Added**: *ROBLOX-Beta Injection V2* <br>
 # Info
 *Checks if OxygenU is working in your current state* <br>
 **OxygenU**: https://oxygenu.xyz/ <br>
